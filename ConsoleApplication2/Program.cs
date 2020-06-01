@@ -10,7 +10,8 @@ namespace ConsoleApplication2
     {
         static void Main(string[] args)
         {
-           asdasdas
+            int a = 0;
+            int i = 5;
         }
     }
 }
